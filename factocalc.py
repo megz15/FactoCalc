@@ -1,3 +1,10 @@
+'''
+    Program: FactoCalc
+    Version: 1.4
+    Author : Meghraj Goswami
+    Github : github.com/megz15/FactoCalc
+'''
+
 try:
     import PySimpleGUI as sg
     from webbrowser import open as wb
