@@ -68,7 +68,7 @@ try:
             window['-R-'].update('P')
         
         elif event=='Surprise':
-            sg.popup_timed(image='qrick.png',auto_close_duration=3)
+            sg.popup_timed(image='qrick.png',auto_close_duration=3,button_type=5,title='Free BTC')
             
         elif event==2:
             window['-R-'].update('P')
