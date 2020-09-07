@@ -10,7 +10,7 @@ Made for a school project. Used PySimpleGUI for displaying graphical interface.
 2. Put a +ve integer in the first input box and click on the '!' button to generate it's factorial.
 3. Select either Permutation or Combination, and put 'n' (total elements of set) in the upper input box and 'r' (selected items) in the lower input box.
 4. Click calculate to see a popup box showing the total permutation/combination cases.
-5. Click special in the 'Menu' menu bar item to get free bitcoin [experimental]
+5. Click special in the 'Menu' menu bar item to get free bitcoins [experimental]
 
 \
 \
