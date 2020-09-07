@@ -1,7 +1,7 @@
 # FactoCalc
 A simple factorial, permutation and combination calculator GUI
 ## About project
-Made for a school project. Used PySimpleGUI for displaying graphical interface.
+Made for a school project (that's why I used loops in my factorial function instead of using recursion or pre-defined methods). Used PySimpleGUI for displaying graphical interface.
 ## REQUIREMENTS:
 1. [Python 3](https://www.python.org/downloads/): I use 3.8.2
 2. [PySimpleGUI](https://pysimplegui.readthedocs.io/): Python library for GUI development. Install it using ```pip install pysimplegui``` in Command Prompt.
